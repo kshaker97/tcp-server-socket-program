@@ -39,4 +39,5 @@ The client component is designed to initiate a connection to the server and enga
    -  Using the connect() function, the client establishes a connection to the server's socket located at 127.0.0.1 and the predefined port. This initiates the communication session.
 3. **Data Exchange:**
    -  Once connected, the client can send and receive data using the send() and recv() functions, engaging in meaningful communication with the server.
-4. **Graceful Termination:** Properly closing the socket connection with the close() function to ensure resource cleanup and termination of the client session.
+4. **Graceful Termination:**
+   -  Properly closing the socket connection with the close() function to ensure resource cleanup and termination of the client session.
