@@ -2,7 +2,7 @@
   TCP Server/Client using Socket Programming
 </h1>
 
-<h4 align="center">TCP server socket program (server - client) using C++.</h4>
+<h4 align="center">TCP socket program implemented in C++ consists of both a server and a client designed to communicate over the local network.</h4>
 
 ## Table of Contents:
 - [Introduction](#introduction)
